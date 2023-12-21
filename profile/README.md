@@ -6,7 +6,7 @@
 Welcome 👋
 
 ***Adata is a tech community for developers around the world. We are a team of accredited engineers crafting a better tomorrow for our daily lives. Let's Engineer your software through the project's full development cycle and deployment.Check out our clientele for more juicy scenes:***
-- [Tukber](https://tukber.com) Cross-Platform React Native Application for transport Services, Online booking and Driver Jobs.
+<!-- [Tukber](https://tukber.com) Cross-Platform React Native Application for transport Services, Online booking and Driver Jobs. -->
 
 ## 🎁 Repositories
 
