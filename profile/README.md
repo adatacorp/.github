@@ -12,7 +12,7 @@ Welcome 👋
 
 ***Most Organization Repositories are private and accessed by team members.***
 > [!TIP]
-> Free Coffee to all team members. #LetsCode
+> Codes blend well with Coffee. #LetsCode
 
 ## 💚 Community
 ***The community is open to all. Reach out and find your spot along the ride.***
