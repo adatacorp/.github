@@ -6,7 +6,7 @@
 Welcome 👋
 
 ***Adata is a tech community for developers around the world. We are a team of accredited engineers crafting a better tomorrow for our daily lives. Let's Engineer your software through the project's full development cycle and deployment.Check out our clientele for more juicy scenes:***
-- [Ginx Motors](https://ginxmotors.com) React Showroom Management System.
+
 
 ## 🎁 Repositories
 
