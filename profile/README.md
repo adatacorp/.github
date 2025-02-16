@@ -5,7 +5,7 @@
 
 Welcome 👋
 
-***Adata is a tech community for developers around the world. We are a team of accredited engineers crafting a better tomorrow for our daily lives. Let's Engineer your software through the project's full development cycle and deployment.Check out our clientele for more juicy scenes:***
+***Adata is a tech community for developers around the world. A remote team of accredited engineers crafting a better tomorrow for our daily lives. Doing extensive research in Deep learning and machine learning. We believe computer vision is a game changer!!. Convolutional Neural Networks research. Join us and be part of the revolutionary approach***
 
 
 ## 🎁 Repositories
